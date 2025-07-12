@@ -91,7 +91,7 @@ nav ul li a{
     background-color: rgb(253, 16, 182);
     color: white;
     text-align: center
-    border:center;
+    border :center;
     border-radius: 15px;
     width: 174px;
     height: 48px;
@@ -100,7 +100,7 @@ nav ul li a{
 }
 main{ 
     max-width: 1140px;
-    margin: 0 auto;
+    margin: 2px auto;
 text-align:center;
 align-items:center;
 justify-content:space-between;
@@ -158,11 +158,11 @@ justify-content:space-between;
    
 
     background-color:#4d47ff23;
-    width: 1140px;
+    max-width: 1140px;
     height: 306px;
     padding:50px 80px;
     border-radius: 24px;
-    margin: c;
+    margin:0 auto;
 
 }
 #p4{
