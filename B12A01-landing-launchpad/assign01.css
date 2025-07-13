@@ -193,8 +193,7 @@ justify-content:space-between;
     font-weight: bold;
 }
 .reviw{
-    display: flex;
-    gap: 5px;
+    
   
 }
 .image1{
@@ -217,9 +216,11 @@ justify-content:space-between;
     text-align:left;
 }
 .co{
+  
     display: flex;
     text-align: center;
-    justify-content: space-between;
+    align-items: center;
+    gap:10px
 }
 .comment{
     
@@ -243,7 +244,7 @@ justify-content:space-between;
     font-size: 16px;
     text-align: left;
 }
-#p{
+.reviw p{
         margin: 0px;
         text-align: left;
         color: #B3B3B3;
